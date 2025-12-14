@@ -42,7 +42,7 @@ Criar um programa que:
 
 ## 📄 Código do Desafio
 
-<a href="https://github.com/ChronosShelby/desafio-logica-inicial/blob/main/src/Classificador%20de%20n%C3%ADvel.js"> 📕Clique aqui para ver o código</a>
+- <a href="https://github.com/ChronosShelby/desafio-logica-inicial/blob/main/src/Classificador%20de%20n%C3%ADvel.js"> Clique aqui para ver o código</a>
 
 ## 📚 Aprendizados
 
